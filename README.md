@@ -48,6 +48,11 @@ README.md                  # This documentation
     pip install -r requirements.txt
     ```
     *Note: For GPU acceleration, ensure you install the correct PyTorch version for your CUDA driver from [pytorch.org](https://pytorch.org).*
+    
+3.  **Download the Dataset from Kaggle**:
+    ```bash
+    kaggle competitions download -c nfl-big-data-bowl-2026-prediction
+    ```
 
 ## 🏋️ usage
 
@@ -87,4 +92,5 @@ The model performance is evaluated using:
 - **PyTorch Geometric** (Graph Neural Networks)
 - **Pandas / NumPy** (Data Manipulation)
 - **Scikit-Learn** (Preprocessing)
+
 
