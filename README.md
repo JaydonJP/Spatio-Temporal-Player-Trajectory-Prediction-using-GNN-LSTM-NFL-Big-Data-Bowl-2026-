@@ -31,7 +31,7 @@ gat-lstm/
 ├── submission_script.py   # Inference script to generate predictions and metrics
 ├── check_gpu.py           # Utility to verify CUDA/GPU availability
 ├── requirements.txt       # Python dependencies
-└── README.md              # This documentation
+README.md                  # This documentation
 ```
 
 ## 🚀 Installation
@@ -87,3 +87,4 @@ The model performance is evaluated using:
 - **PyTorch Geometric** (Graph Neural Networks)
 - **Pandas / NumPy** (Data Manipulation)
 - **Scikit-Learn** (Preprocessing)
+
