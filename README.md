@@ -38,7 +38,7 @@ README.md                  # This documentation
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/JaydonJP/Spatio-Temporal-Player-Trajectory-Prediction-using-GNN-LSTM-NFL-Big-Data-Bowl-2026-
+    git clone https://github.com/JaydonJP/Spatio-Temporal-Player-Trajectory-Prediction-using-GNN-LSTM-NFL-Big-Data-Bowl-2026-.git
     cd gat-lstm
     ```
 
